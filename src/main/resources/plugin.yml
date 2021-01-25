@@ -1,0 +1,6 @@
+name: SlashDemo
+version: ${project.version}
+main: com.runicrealms.slashdemo.SlashDemo
+api-version: 1.15
+authors: [hidden1nin]
+description: Slash animations!
